@@ -75,4 +75,7 @@ start:
     mov dl, 67h ; g
     int 21h
 
+    mov ah, 4ch
+    int 21h
+
 end start
