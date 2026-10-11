@@ -1,4 +1,4 @@
-.model stack
+.model small
 .stack
 .code
 
